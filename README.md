@@ -1,5 +1,5 @@
 # FlaskUserAgent
- Flask website that displays your user-agent.
+ Flask web app that displays your user-agent.
 
 ## Setup
 ### Prerequisites
